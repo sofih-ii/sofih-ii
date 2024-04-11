@@ -1,4 +1,6 @@
-### Hi there 👋
+###                                                Hi, I am Sofia 👋💜
+
+![Simple Technology LinkedIn Banner](https://github.com/sofih-ii/sofih-ii/assets/134168046/1127462e-55bf-4938-b832-f5e85d43435c)
 
 <!--
 **sofih-ii/sofih-ii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
